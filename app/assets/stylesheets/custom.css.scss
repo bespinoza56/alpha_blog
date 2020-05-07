@@ -17,17 +17,18 @@ background-color: black !important;
   font-weight: bold;
 }
 
-#home-container {
-  margin-top: 25px;
-}
+// #home-container {
+//   margin-top: 25px;
+// }
 
 .jumbotron {
-  background-image: asset-url('jumbotron-image.jpg');
-  background-position: bottom center;
+  background-image: asset-url('Arc-de-Triumph.gif');
+  background-position: bottom;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 425px;
-  color: black !important;
+  height: 600px !important;
+  border-radius: 0px !important;
+  color: white !important;
 }
 html,
 body {
